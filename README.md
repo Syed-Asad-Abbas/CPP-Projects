@@ -7,7 +7,7 @@ The code aims to facilitate the reservation of bus tickets for various destinati
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Functions Used</h2>
 
 - <b>C++ Language</b>
 - <b>C++ Standard Libraries (iostream, iomanip, string, fstream, windows.h)</b>
@@ -20,7 +20,7 @@ The code aims to facilitate the reservation of bus tickets for various destinati
 - <b>Static Members</b>
 - <b>Random Number Generation (rand())</b>
 - <b>Minimal Error Handling</b>
-- <b>Diskpart</b>
+- <b>DEV C++</b>
 
 <h2>Environments Used </h2>
 
@@ -29,12 +29,12 @@ The code aims to facilitate the reservation of bus tickets for various destinati
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the Program: <br/>
+<img src="https://i.imgur.com/GkXJBDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select 1 for Registration <br/>
+<img src="https://i.imgur.com/v3xwQOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
