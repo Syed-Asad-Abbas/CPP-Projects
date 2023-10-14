@@ -37,24 +37,28 @@ Select 1 for Registration <br/>
 <img src="https://i.imgur.com/v3xwQOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter the data <br/>
+<img src="https://i.imgur.com/vlh6f1U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter Departure City <br/>
+<img src="https://i.imgur.com/zrQ63Mq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter Destination City:  <br/>
+<img src="https://i.imgur.com/argQ0zG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The message ticket booked Successfully will appear on the screen  <br/>
+<img src="https://i.imgur.com/QcbcUR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Press 3 for printing the ticket  <br/>
+<img src="https://i.imgur.com/D72M1Di.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+ <br />
+ Then Press 4 for exiting the program  <br/>
+<img src="https://i.imgur.com/uOrYEq0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
