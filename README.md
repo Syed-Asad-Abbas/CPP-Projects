@@ -1,4 +1,4 @@
-<h1>Bus ticket Reseervation System OOP </h1>
+<h1>Bus ticket Reservation System OOP </h1>
 
  ### [YouTube Output of the Program](https://youtu.be/EyTo8RC83zs)
 
