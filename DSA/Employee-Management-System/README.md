@@ -35,11 +35,11 @@ Data persistence is managed through file handling. Employee records are saved to
 
 ## Project Demonstration
 
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc1.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc2.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc3.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc4.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc5.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc6.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc7.jpg?raw=true)
-![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/sc8.jpg?raw=true)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc1.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc2.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc3.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc4.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc5.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc6.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc7.jpg)
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/DSA/Employee-Management-System/images/sc8.jpg)
